@@ -42,15 +42,6 @@ A clearly defined BPMN diagram (see attached XML) outlines each step—from inbo
 * **Model**: `mistralai/Mistral-Nemo-Instruct-2407` (chat-completion endpoint)
 * **BPMN**: Automated email trigger → AI generation → SMTP reply
 
----
-
-## 🎓 Acknowledgments & Shoutouts
-
-A heartfelt thanks to:
-
-* **Anirindam**, for guidance on Camunda 8.7 architecture and best practices.
-* **Bhaskar (CEO)**, for his support and valuable input in tuning the model prompts and helping troubleshoot the email connector—his leadership and involvement were truly motivating.
-* **Rakshitha**, who suggested using Node.js for the Camunda worker—this insight was invaluable and made everything possible!
 
 ---
 
@@ -72,6 +63,7 @@ Fully automated, context‑aware email reply system built on **Camunda 8.7**.
 Powered by **Mistral Nemo Instruct** via Hugging Face, triggered by **email inbound connector**.
 A reliable BPMN process deployed seamlessly in **Node.js**.
 
-**Special thanks to Anirindam, Bhaskar, and Rakshitha!**
+
+
 
 
