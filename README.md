@@ -28,6 +28,9 @@ The process ends with Camunda logging the response and completing the workflow.
 ## 🧭 BPMN Overview
 
 A clearly defined BPMN diagram (see attached XML) outlines each step—from inbound email receipt, AI processing, to outbound delivery—ensuring clarity, traceability, and resilience.
+![image](https://github.com/user-attachments/assets/d9cc46e8-2a33-4b87-9388-c4e230035353)
+
+![image](https://github.com/user-attachments/assets/ecf6b327-504c-4139-8ca5-9a16f5f33f00)
 
 ---
 
