@@ -71,13 +71,4 @@ A reliable BPMN process deployed seamlessly in **Node.js**.
 
 **Special thanks to Anirindam, Bhaskar, and Rakshitha!**
 
----
-
-✅ You're all set—just copy and paste this into your `README.md` file. Let me know if you'd like me to generate the overview diagram too!
-
-
-Fully automated, context‑aware email reply system built on Camunda 8.7.
-Powered by Mistral Nemo Instruct via Hugging Face, triggered by email inbound connector.
-A reliable BPMN process deployed seamlessly in Node.js.
-Special thanks to Anirindam, Bhaskar, and Rakshitha!
 
