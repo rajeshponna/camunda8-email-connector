@@ -1,4 +1,4 @@
-# 🚀 AI-Powered Email Automation: Camunda 8.7 + Hugging Face + Node.js
+# 🚀 AI-Powered Email Automation: Camunda 8.7 + Hugging Face + Node.js Typescript 
 
 **Streamline business communication**: Eliminate manual responses, reduce human error, and speed up turnaround time.
 **Deliver personalized replies at scale**: Use context-aware AI to generate targeted, professional email responses.
